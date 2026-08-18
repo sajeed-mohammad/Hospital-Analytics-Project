@@ -25,6 +25,7 @@ trends that can support better healthcare insights
 and decision-making.
 ## Dashboard
 </> Markdown
+![Hospital Analytics Dashboard](Hospital%20Analytics%20Dashboard)
 
 ## Key Insights
 - Identified the most frequently recorded
