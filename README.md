@@ -26,3 +26,14 @@ and decision-making.
 ## Dashboard
 </> Markdown
 ![Hospital Analytics Dashboard](Hospital%20Analytics%20Dashboard.jpeg)
+## Key Insights
+- Identified the most frequently recorded
+disease in the dataset
+- Analyzed which age group had the highest
+number of patient records
+- Identified the state/location with the highest
+patient volume
+- Compared the distribution of disease severity
+levels among patients
+- Analyzed seasonal trends to identify periods
+with higher numbers of diagnoses.
